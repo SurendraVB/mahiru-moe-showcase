@@ -98,3 +98,7 @@ All parent expert models integrated into Sovereign Mahiru MoE are fully ablitera
 ---
 
 For custom contracts, check out [Custom Alignment Contracts & Terms](CUSTOM_CONTRACTS.md).
+
+
+
+This model is a derivative work of Meta Llama 3.2 3B and is subject to the Meta Llama 3.2 Community License Agreement.
